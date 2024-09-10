@@ -7,18 +7,18 @@ This is a React project bootstrapped with Vite and styled using Tailwind CSS.
 First, install the dependencies:
 
 npm install
-# or
+or
 yarn install
-# or
+or
 pnpm install
 
 
 Next, run the development server:
 
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
 
 
@@ -31,9 +31,9 @@ You can start editing the project by modifying files in the `src` directory. The
 To create a production build, run:
 
 npm run build
-# or
+or
 yarn build
-# or
+or
 pnpm build
 
 
